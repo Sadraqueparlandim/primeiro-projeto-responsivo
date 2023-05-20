@@ -4,5 +4,7 @@
   <br>
   <br>
   <img src="https://github.com/Sadraqueparlandim/primeiro-projeto-responsivo/blob/master/WECARE-01-img.png?raw=true">
+  <br>
+  <img src="https://github.com/Sadraqueparlandim/primeiro-projeto-responsivo/blob/master/WECARE-02-img.png?raw=true">
 
 
